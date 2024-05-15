@@ -12,5 +12,7 @@ Welcome to my django Portfolio site, so this repo file fully covered with E-comm
 ![image](https://github.com/hariz723/Django_PortfolioProject/assets/110483479/aae9e5d9-a65e-477d-8442-fa40242146e6)
 # product page:
 ![image](https://github.com/hariz723/Django_PortfolioProject/assets/110483479/35b9aade-d1b4-4877-a35f-83f095ea34c6)
+# product page-2:
+![image](https://github.com/hariz723/Django_PortfolioProject/assets/110483479/c73cbd9a-a8bc-48a8-8aca-3e5cdaaab3ff)
 
 
